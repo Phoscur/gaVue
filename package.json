@@ -59,5 +59,9 @@
     "vite-ssg-sitemap": "^0.3.1",
     "vitest": "^0.21.0",
     "vue-tsc": "^0.39.5"
+  },
+  "author": {
+    "name": "Phoscur",
+    "email": "phoscur@pheelgood.net"
   }
 }
