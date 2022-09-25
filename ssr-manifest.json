@@ -46,7 +46,7 @@
   "../../../../__uno.css": [],
   "src/main.ts": [],
   "index.html": [],
-  "assets/app.dc78546a.js-unocss-hash.css": [],
+  "assets/app.aec522ab.js-unocss-hash.css": [],
   "node_modules/.pnpm/workbox-window@6.5.3/node_modules/workbox-window/build/workbox-window.prod.es5.mjs": [
     "/gaVue/assets/virtual_pwa-register.032d5a53.js"
   ],
@@ -54,36 +54,36 @@
     "/gaVue/assets/virtual_pwa-register.032d5a53.js"
   ],
   "src/layouts/404.vue?vue&type=script&setup=true&lang.ts": [
-    "/gaVue/assets/404.73f06d94.js"
+    "/gaVue/assets/404.70e21b0d.js"
   ],
   "src/layouts/404.vue": [
-    "/gaVue/assets/404.73f06d94.js"
+    "/gaVue/assets/404.70e21b0d.js"
   ],
   "src/layouts/home.vue": [
-    "/gaVue/assets/home.b352b5e3.js"
+    "/gaVue/assets/home.f89baa2b.js"
   ],
   "src/pages/about.md": [
-    "/gaVue/assets/about.0af0958d.js"
+    "/gaVue/assets/about.91ff9d84.js"
   ],
   "src/pages/README.md": [
-    "/gaVue/assets/README.80377203.js"
+    "/gaVue/assets/README.a604dfff.js"
   ],
-  "src/pages/[...all].vue?vue&type=script&setup=true&lang.ts": [
-    "/gaVue/assets/_...all_.e5f84f3f.js"
+  "src/pages/[all].vue?vue&type=script&setup=true&lang.ts": [
+    "/gaVue/assets/_all_.056dba6d.js"
   ],
-  "src/pages/[...all].vue": [
-    "/gaVue/assets/_...all_.e5f84f3f.js"
+  "src/pages/[all].vue": [
+    "/gaVue/assets/_all_.056dba6d.js"
   ],
   "src/pages/hi/[name].vue?vue&type=script&setup=true&lang.ts": [
-    "/gaVue/assets/_name_.f348dc33.js"
+    "/gaVue/assets/_name_.1a6972da.js"
   ],
   "src/pages/hi/[name].vue": [
-    "/gaVue/assets/_name_.f348dc33.js"
+    "/gaVue/assets/_name_.1a6972da.js"
   ],
   "src/pages/sunset/[name].vue?vue&type=script&setup=true&lang.ts": [
-    "/gaVue/assets/_name_.06f55614.js"
+    "/gaVue/assets/_name_.b1fbbb0a.js"
   ],
   "src/pages/sunset/[name].vue": [
-    "/gaVue/assets/_name_.06f55614.js"
+    "/gaVue/assets/_name_.b1fbbb0a.js"
   ]
 }
