@@ -20,13 +20,12 @@
   "node_modules/.pnpm/vue-demi@0.13.6_vue@3.2.37/node_modules/vue-demi/lib/index.mjs": [],
   "node_modules/.pnpm/pinia@2.0.17_j6bzmzd4ujpabbp5objtwxyjp4/node_modules/pinia/dist/pinia.esm-browser.js": [],
   "src/modules/pinia.ts": [],
-  "\u0000vite/preload-helper": [],
-  "src/modules/pwa.ts": [],
   "node_modules/.pnpm/vue-router@4.1.3_vue@3.2.37/node_modules/vue-router/dist/vue-router.mjs": [],
   "node_modules/.pnpm/@vueuse+head@0.7.9_vue@3.2.37/node_modules/@vueuse/head/dist/index.mjs": [],
   "node_modules/.pnpm/vite-ssg@0.20.2_thgl23324gg75myoeph36y4c5a/node_modules/vite-ssg/dist/chunks/state.mjs": [],
   "node_modules/.pnpm/vite-ssg@0.20.2_thgl23324gg75myoeph36y4c5a/node_modules/vite-ssg/dist/chunks/ClientOnly.mjs": [],
   "node_modules/.pnpm/vite-ssg@0.20.2_thgl23324gg75myoeph36y4c5a/node_modules/vite-ssg/dist/index.mjs": [],
+  "\u0000vite/preload-helper": [],
   "node_modules/.pnpm/@vueuse+shared@9.1.0_vue@3.2.37/node_modules/@vueuse/shared/index.mjs": [],
   "node_modules/.pnpm/@vueuse+core@9.1.0_vue@3.2.37/node_modules/@vueuse/core/index.mjs": [],
   "src/composables/dark.ts": [],
@@ -46,44 +45,38 @@
   "../../../../__uno.css": [],
   "src/main.ts": [],
   "index.html": [],
-  "assets/app.aec522ab.js-unocss-hash.css": [],
-  "node_modules/.pnpm/workbox-window@6.5.3/node_modules/workbox-window/build/workbox-window.prod.es5.mjs": [
-    "/gaVue/assets/virtual_pwa-register.032d5a53.js"
-  ],
-  "../../../../@vite-plugin-pwa/virtual:pwa-register": [
-    "/gaVue/assets/virtual_pwa-register.032d5a53.js"
-  ],
+  "assets/app.1d3646e1.js-unocss-hash.css": [],
   "src/layouts/404.vue?vue&type=script&setup=true&lang.ts": [
-    "/gaVue/assets/404.70e21b0d.js"
+    "/gaVue/assets/404.011b570a.js"
   ],
   "src/layouts/404.vue": [
-    "/gaVue/assets/404.70e21b0d.js"
+    "/gaVue/assets/404.011b570a.js"
   ],
   "src/layouts/home.vue": [
-    "/gaVue/assets/home.f89baa2b.js"
+    "/gaVue/assets/home.fbbcd25a.js"
   ],
   "src/pages/about.md": [
-    "/gaVue/assets/about.91ff9d84.js"
+    "/gaVue/assets/about.1343285e.js"
   ],
   "src/pages/README.md": [
-    "/gaVue/assets/README.a604dfff.js"
+    "/gaVue/assets/README.e7a8185b.js"
   ],
   "src/pages/[all].vue?vue&type=script&setup=true&lang.ts": [
-    "/gaVue/assets/_all_.056dba6d.js"
+    "/gaVue/assets/_all_.397cdaa6.js"
   ],
   "src/pages/[all].vue": [
-    "/gaVue/assets/_all_.056dba6d.js"
+    "/gaVue/assets/_all_.397cdaa6.js"
   ],
   "src/pages/hi/[name].vue?vue&type=script&setup=true&lang.ts": [
-    "/gaVue/assets/_name_.1a6972da.js"
+    "/gaVue/assets/_name_.8aa344bf.js"
   ],
   "src/pages/hi/[name].vue": [
-    "/gaVue/assets/_name_.1a6972da.js"
+    "/gaVue/assets/_name_.8aa344bf.js"
   ],
   "src/pages/sunset/[name].vue?vue&type=script&setup=true&lang.ts": [
-    "/gaVue/assets/_name_.b1fbbb0a.js"
+    "/gaVue/assets/_name_.84b5f78d.js"
   ],
   "src/pages/sunset/[name].vue": [
-    "/gaVue/assets/_name_.b1fbbb0a.js"
+    "/gaVue/assets/_name_.84b5f78d.js"
   ]
 }
