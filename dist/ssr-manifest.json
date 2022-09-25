@@ -46,44 +46,44 @@
   "../../../../__uno.css": [],
   "src/main.ts": [],
   "index.html": [],
-  "assets/app.2dadf129.js-unocss-hash.css": [],
+  "assets/app.dc78546a.js-unocss-hash.css": [],
   "node_modules/.pnpm/workbox-window@6.5.3/node_modules/workbox-window/build/workbox-window.prod.es5.mjs": [
-    "/assets/virtual_pwa-register.3ff79d29.js"
+    "/gaVue/assets/virtual_pwa-register.032d5a53.js"
   ],
   "../../../../@vite-plugin-pwa/virtual:pwa-register": [
-    "/assets/virtual_pwa-register.3ff79d29.js"
+    "/gaVue/assets/virtual_pwa-register.032d5a53.js"
   ],
   "src/layouts/404.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/404.01cb9d63.js"
+    "/gaVue/assets/404.73f06d94.js"
   ],
   "src/layouts/404.vue": [
-    "/assets/404.01cb9d63.js"
+    "/gaVue/assets/404.73f06d94.js"
   ],
   "src/layouts/home.vue": [
-    "/assets/home.996726db.js"
+    "/gaVue/assets/home.b352b5e3.js"
   ],
   "src/pages/about.md": [
-    "/assets/about.1471b467.js"
+    "/gaVue/assets/about.0af0958d.js"
   ],
   "src/pages/README.md": [
-    "/assets/README.341910be.js"
+    "/gaVue/assets/README.80377203.js"
   ],
   "src/pages/[...all].vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/_...all_.aced02fb.js"
+    "/gaVue/assets/_...all_.e5f84f3f.js"
   ],
   "src/pages/[...all].vue": [
-    "/assets/_...all_.aced02fb.js"
+    "/gaVue/assets/_...all_.e5f84f3f.js"
   ],
   "src/pages/hi/[name].vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/_name_.e9e824a8.js"
+    "/gaVue/assets/_name_.f348dc33.js"
   ],
   "src/pages/hi/[name].vue": [
-    "/assets/_name_.e9e824a8.js"
+    "/gaVue/assets/_name_.f348dc33.js"
   ],
   "src/pages/sunset/[name].vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/_name_.6aee8c4e.js"
+    "/gaVue/assets/_name_.06f55614.js"
   ],
   "src/pages/sunset/[name].vue": [
-    "/assets/_name_.6aee8c4e.js"
+    "/gaVue/assets/_name_.06f55614.js"
   ]
 }
