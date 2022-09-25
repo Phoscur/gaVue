@@ -19,7 +19,7 @@ watchEffect(() => {
     </p>
 
     <p text-sm opacity-75>
-      <img :src="`https://github.com/BluestDragon/sunset-karlsruhe-2022-06-09/blob/master/-1001404797626-5540-${props.name}.jpg?raw=true`">J
+      <img :src="`https://github.com/BluestDragon/sunset-karlsruhe-2022-06-09/blob/master/-1001404797626-5540-${props.name}.jpg?raw=true`">
       <em>{{ t('intro.dynamic-route') }}</em>
     </p>
 
