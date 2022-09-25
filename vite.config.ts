@@ -94,6 +94,7 @@ export default defineConfig({
     }),
 
     // https://github.com/antfu/vite-plugin-pwa
+    /*
     VitePWA({
       registerType: 'autoUpdate',
       includeAssets: ['favicon.svg', 'safari-pinned-tab.svg'],
@@ -121,6 +122,7 @@ export default defineConfig({
         ],
       },
     }),
+    */
 
     // https://github.com/intlify/bundle-tools/tree/main/packages/vite-plugin-vue-i18n
     VueI18n({
